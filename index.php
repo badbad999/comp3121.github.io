@@ -1,7 +1,8 @@
 <html>
 <head>
+  
 </head>
 <body>
-TEST
+<?php echo "HI";?>
 </body>
 </html>
